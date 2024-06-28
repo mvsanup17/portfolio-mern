@@ -1,0 +1,22 @@
+.card-link{
+    text-decoration: none;
+    color: #03AED2;
+}
+
+.card-link:hover{
+    text-decoration: underline;
+    text-decoration-color: #03AED2;
+}
+
+.card{
+    transition: all 0.2s;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.head-col:hover{
+    text-decoration: underline;
+    text-decoration-color: #03AED2;
+}

@@ -1,0 +1,44 @@
+#skills {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between icons */
+}
+
+.icon .icon-item {
+    font-size: 5rem; /* Decrease the font size as needed */
+    position: relative;
+    transition: color 0.3s, transform 0.3s; /* Smooth transition for hover effect */
+    cursor: pointer;
+}
+
+.icon .icon-item:hover {
+    color: #03AED2; /* Change icon color on hover */
+    transform: scale(1.1); /* Slightly enlarge icon on hover */
+}
+
+.icon .icon-item::after {
+    content: attr(data-name); /* Display icon name */
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    background: #03AED2;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    transition: opacity 0.3s;
+    pointer-events: none;
+}
+
+.icon .icon-item:hover::after {
+    opacity: 1;
+}

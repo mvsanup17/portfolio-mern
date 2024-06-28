@@ -1,0 +1,29 @@
+.bar-col{
+    background-color: #03AED2;
+}
+
+nav .nav-item a{
+    color: white;
+}
+
+nav .nav-item a:hover{
+    color: aliceblue;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+@media (max-width: 990px){
+    .bgcol{
+        background-color: #FFDE25;
+    }
+
+    nav .nav-item a{
+        color: black;
+    }
+
+    nav .nav-item a:hover{
+        color: black;
+        text-decoration: underline;
+        text-decoration-color: black;  
+    }
+}

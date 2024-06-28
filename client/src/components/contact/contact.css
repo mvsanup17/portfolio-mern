@@ -1,0 +1,12 @@
+.button{
+    background-color: #03AED2;
+    color: white;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    border-radius: 12px;
+}
+
+.head-col:hover{
+    text-decoration: underline;
+    text-decoration-color: #03AED2;
+}

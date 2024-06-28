@@ -1,0 +1,16 @@
+.certi-bg{
+    background-color: #E7F6F2;
+}
+
+.card{
+    transition: all 0.2s;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.head-col:hover{
+    text-decoration: underline;
+    text-decoration-color: #03AED2;
+}
