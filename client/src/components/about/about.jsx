@@ -17,7 +17,7 @@ function About(){
                     <div className="row min-vh-100 align-items-center align-content-center">
                         <div className="col-lg-4">
                             <div className="home-img text-center">
-                                <img src={`http://localhost:4500/imagesdata/file_1719506837624.jpg`} className="rounded-circle mw-100" alt="profile img" />
+                                <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719506837624.jpg`} className="rounded-circle mw-100" alt="profile img" />
                             </div>
                         </div>
                         <div className="col-lg-8 mt-5 mt-lg-0">
@@ -39,7 +39,7 @@ function About(){
                                     My ultimate goal is to continuously enhance my potential and create a trajectory for my personal and professional growth.
                                 </p>
                                 <br />
-                                <a href={`http://localhost:4500/imagesdata/file_1719508145745.pdf`} target="_blank" rel="noopener noreferrer" className="button text-decoration-none">
+                                <a href={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1720592330936.pdf`} target="_blank" rel="noopener noreferrer" className="button text-decoration-none">
                                     My Resume
                                 </a>
                                 <br />

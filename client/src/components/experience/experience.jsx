@@ -10,7 +10,7 @@ function Experience(){
             <div id="work" className="container">
                 <div className="row">
                     <div className="col-lg-4 text-center">
-                        <img src={`http://localhost:4500/imagesdata/file_1719506952896.jpg`} alt="thub" className='img-fluid py-2'/>
+                        <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719506952896.jpg`} alt="thub" className='img-fluid py-2'/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Technical Hub</h2>
@@ -29,7 +29,7 @@ function Experience(){
                 <br/><br/>
                 <div className="row">
                     <div className="col-lg-4 text-center">
-                        <img src={`http://localhost:4500/imagesdata/file_1719507025912.jpg`} alt="codsoft" className='img-fluid py-2'/>
+                        <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719507025912.jpg`} alt="codsoft" className='img-fluid py-2'/>
                     </div>
                     <div className="col-lg-8">
                         <h2>CodSoft</h2>

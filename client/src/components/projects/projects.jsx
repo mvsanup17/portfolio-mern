@@ -14,7 +14,7 @@ function Projects(){
                     <div className="row">
                         <div className="col-lg">
                             <div className="card">
-                                <img src={`http://localhost:4500/imagesdata/file_1719507155732.png`} alt="img" className="card-img-top" />
+                                <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719507155732.png`} alt="img" className="card-img-top" />
                                 <div className="card-body">
                                     <h5 className="card-title">Food Blog - Svaadisht</h5>
                                     <p className="card-text">
@@ -27,7 +27,7 @@ function Projects(){
                         </div>
                         <div className="col-lg">
                             <div className="card">
-                                <img src={`http://localhost:4500/imagesdata/file_1719507274128.webp`} alt="img" className="card-img-top" />
+                                <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719507274128.webp`} alt="img" className="card-img-top" />
                                 <div className="card-body">
                                     <h5 className="card-title">Personal Portfolio</h5>
                                     <p className="card-text">I have developed a personal portfolio using <span><b>React</b></span> that 
@@ -38,7 +38,7 @@ function Projects(){
                         </div>
                         <div className="col-lg">
                             <div className="card">
-                                <img src={`http://localhost:4500/imagesdata/file_1719507323488.jpg`} alt="img" className="card-img-top" />
+                                <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719507323488.jpg`} alt="img" className="card-img-top" />
                                 <div className="card-body">
                                     <h5 className="card-title">DBMS - myData</h5>
                                     <p className="card-text">

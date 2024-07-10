@@ -9,7 +9,7 @@ function Contact() {
 
     const sendEmail = (e) => {
         e.preventDefault();  // Prevent page refresh
-        axios.get('http://localhost:4500/', {
+        axios.get('https://my-portfolio-mern-d3bx.onrender.com/', {
             params: {
                 email,
                 subject,

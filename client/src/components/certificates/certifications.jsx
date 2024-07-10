@@ -12,7 +12,7 @@ function Certifications(){
                     <div className="row">
                         <div className="col-lg">
                             <div className="card">
-                                <img src={`http://localhost:4500/imagesdata/file_1719507392834.png`} alt="img" className="card-img-top" />
+                                <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719507392834.png`} alt="img" className="card-img-top" />
                                 <div className="card-body">
                                     <h5 className="card-title">Red Hat</h5>
                                     <p className="card-text">
@@ -23,7 +23,7 @@ function Certifications(){
                         </div>
                         <div className="col-lg">
                             <div className="card">
-                                <img src={`http://localhost:4500/imagesdata/file_1719507478643.png`} alt="img" className="card-img-top" />
+                                <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719507478643.png`} alt="img" className="card-img-top" />
                                 <div className="card-body">
                                     <h5 className="card-title">Cisco</h5>
                                     <p className="card-text">
@@ -35,7 +35,7 @@ function Certifications(){
                         </div>
                         <div className="col-lg">
                             <div className="card">
-                                <img src={`http://localhost:4500/imagesdata/file_1719507527505.png`} alt="img" className="card-img-top" />
+                                <img src={`https://my-portfolio-mern-d3bx.onrender.com/imagesdata/file_1719507527505.png`} alt="img" className="card-img-top" />
                                 <div className="card-body">
                                     <h5 className="card-title">Certiport</h5>
                                     <p className="card-text">
